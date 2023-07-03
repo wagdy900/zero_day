@@ -6,6 +6,7 @@
 
 
 
+
 Welcome to Vagrant! This README provides an overview of Vagrant, a tool for creating and managing virtual machine environments. Whether you're a developer, system administrator, or part of a DevOps team, Vagrant simplifies the process of setting up and configuring virtual machines for your projects.
 
 ## Table of Contents

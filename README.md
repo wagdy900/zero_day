@@ -51,7 +51,8 @@ Encourage others to contribute to your project by providing guidelines and instr
 Specify the license under which your project is released. Provide a link to the license file if possible. If you're not sure about licensing, consult with an expert or refer to the open-source license templates provided by the Open Source Initiative (https://opensource.org/licenses).
 
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
-![Bing Logo](https://www.bing.com/sa/simg/hpb/LaDigue_1024_EN-UK.9916c6a9.jpg)
+![Git Logo](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
+
 
 
 ---

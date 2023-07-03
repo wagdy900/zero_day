@@ -1,6 +1,6 @@
 # Vagrant
 
-![Vagrant Logo]([https://www.hashicorp.com/_next/image?url=%2Fstatic%2Fimages%2Fbrand%2Fvagrant-logo-1a9b3e6c.svg&w=384&q=75](https://dwglogo.com/wp-content/uploads/2017/11/Vagrant_logo-768x530.png))
+![Vagrant Logo]([https://www.hashicorp.com/_next/image?url=%2Fstatic%2Fimages%2Fbrand%2Fvagrant-logo-1a9b3e6c.svg&w=384&q=75](https://dwglogo.com/wp-content/uploads/2017/11/Vagrant_logo-768x530.png)
 
 
 Welcome to Vagrant! This README provides an overview of Vagrant, a tool for creating and managing virtual machine environments. Whether you're a developer, system administrator, or part of a DevOps team, Vagrant simplifies the process of setting up and configuring virtual machines for your projects.

@@ -1,6 +1,7 @@
 # Vagrant
 
-![Vagrant Libvirt Logo](docs/_assets/images/logo.png?raw=true "Vagrant Libvirt")
+![Vagrant Logo](https://upload.wikimedia.org/wikipedia/commons/0/06/Vagrant_Logo.svg)
+
 
 
 

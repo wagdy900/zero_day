@@ -1,6 +1,8 @@
 # Vagrant
 
-![Vagrant Logo](![Vagrant Logo](https://www.hashicorp.com/_next/image?url=%2Fstatic%2Fimages%2Fbrand%2Fvagrant-logo-1a9b3e6c.svg&w=384&q=75))
+![Vagrant Logo](https://upload.wikimedia.org/wikipedia/commons/0/06/Vagrant_Logo.svg)
+
+
 
 
 

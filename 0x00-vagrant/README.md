@@ -1,6 +1,7 @@
 # Vagrant
 
-![Vagrant Logo]([https://www.vagrantup.com/assets/images/logo_vagrant-5e96f1d9.svg](https://dwglogo.com/wp-content/uploads/2017/11/Vagrant_logo.png))
+[![Vagrant Logo](https://www.hashicorp.com/_next/image?url=%2Fstatic%2Fimages%2Fbrand%2Fvagrant-logo-1a9b3e6c.svg&w=384&q=75)](https://www.hashicorp.com/)
+
 
 Welcome to Vagrant! This README provides an overview of Vagrant, a tool for creating and managing virtual machine environments. Whether you're a developer, system administrator, or part of a DevOps team, Vagrant simplifies the process of setting up and configuring virtual machines for your projects.
 
@@ -55,7 +56,8 @@ Vagrant uses a command-line interface (CLI) to manage your virtual machine envir
 
 - **Start a virtual machine:** Start and provision the virtual machine defined in the Vagrantfile.
 
-![Vagrant Logo]([https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Vagrant_Logo.png/200px-Vagrant_Logo.png](https://dwglogo.com/wp-content/uploads/2017/11/Vagrant_logo.png)https://dwglogo.com/wp-content/uploads/2017/11/Vagrant_logo.png)
+[![Vagrant Logo](https://www.hashicorp.com/_next/image?url=%2Fstatic%2Fimages%2Fbrand%2Fvagrant-logo-1a9b3e6c.svg&w=384&q=75)](https://www.hashicorp.com/)
+
 
   ```shell
   vagrant up

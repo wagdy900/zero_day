@@ -1,6 +1,6 @@
 # Vagrant
 
-![Vagrant Logo](https://upload.wikimedia.org/wikipedia/commons/0/06/Vagrant_Logo.svg)
+![Vagrant Logo](https://mospaw.com/wp-content/uploads/2018/07/vagrant-245x300.png)
 
 
 
